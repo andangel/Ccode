@@ -29,7 +29,7 @@
     <ClCompile Include="stdafx.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="标准日志流clog.cpp">
+    <ClCompile Include="数组的初始化.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

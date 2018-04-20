@@ -1,5 +1,5 @@
 // stdafx.cpp : 只包括标准包含文件的源文件
-// typedef 为一个已有的类型取一个新的名字.pch 将作为预编译头
+// 数组的初始化.pch 将作为预编译头
 // stdafx.obj 将包含预编译类型信息
 
 #include "stdafx.h"
